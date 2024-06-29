@@ -1,0 +1,16 @@
+langchain
+streamlit
+transformers
+requests
+torch
+einops
+accelerate
+bitsandbytes
+sentence_transformers
+chromadb
+youtube-transcript-api
+pytube
+langchain-community
+pypdf
+langchain-huggingface
+safetensors
