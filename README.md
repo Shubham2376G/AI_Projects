@@ -1,14 +1,14 @@
-# Data Science Portfolio - Shubham Aggarwal
-Welcome to my portfolio! I am a data scientist with a passion for exploring data and finding insights that drive meaningful results. This Portfolio is a compilation of all the Data Science and Data Analysis projects I have done for academic, self-learning and hobby purposes. This portfolio also contains my Achievements, skills, and certificates. It is updated on the regular basis.
+# AI Portfolio - Shubham Aggarwal
+Welcome to my portfolio! I'm Shubham Agarwal, an AI enthusiast driven by the power of Large Language Models (LLMs) and Deep Learning (DL) to generate impactful solutions. This space showcases my explorations in the realm of AI, I have done for academic, self-learning and hobby purposes. This portfolio also contains my Achievements, skills, and certificates. It is updated on the regular basis.
 
 - **Email**: [me21b192@smail.iitm.ac.in](me21b192@smail.iitm.ac.in)
 - **LinkedIn**: [linkedin.com/in/shubham-aggarwal/](https://linkedin.com/in/shubham-aggarwal-a63b40276/)
 
 ## Certificates
-- Recipient of Outstanding Master of Engineering - Industrial Engineering Student Award.
-- [Publication](https://phmpapers.org/index.php/phmconf/article/view/1292): Prognosis of Wind Turbine Gearbox Bearing Failures using SCADA and Modeled Data, Proceedings of the Annual Conference of the PHM Society 2020, Vol. 12 No. 1.
-- Winner of a TAMU Datathon 2020 among 50+ teams.
-- Recipient of TAMU Scholarship and Fee Waiver for excellent academic performance (4.0 GPA).
+- IBM Data Science Professional (10 courses)
+- Tensorflow 2.0: Deep Learning and Artificial Intelligence
+- Specialization in Machine Learning (3 courses)
+- Data Science: Transformers for Natural Language Processing
 
 ## Projects
 
