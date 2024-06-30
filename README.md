@@ -23,3 +23,19 @@ Develop a model to classify patent papers according to the European Patent Offic
 The objective of this project is to analyze the 3 million grocery orders from more than 200,000 Instacart users and predict which previously purchased item will be in user's next order. Customer segmentation and affinity analysis are also done to study user purchase patterns.
 
 #
+
+<img align="left" width="250" height="150" src="https://github.com/Shubham2376G/AI_Projects/blob/main/Images/amex-card1708.jpg"> **[AMEX Contest](https://github.com/Shubham2376G/AI_Projects/tree/main/AMEX_Contest_2024)**
+
+The objective of this project is to analyze the 3 million grocery orders from more than 200,000 Instacart users and predict which previously purchased item will be in user's next order. Customer segmentation and affinity analysis are also done to study user purchase patterns.
+
+#
+
+<img align="left" width="250" height="150" src="https://github.com/Shubham2376G/AI_Projects/blob/main/Images/falcon.jfif"> **[Falcon Rocket Landing Prediction](https://github.com/Shubham2376G/AI_Projects/tree/main/IBM_Project_FalconX_Land_Prediction)**
+
+The objective of this project is to analyze the 3 million grocery orders from more than 200,000 Instacart users and predict which previously purchased item will be in user's next order. Customer segmentation and affinity analysis are also done to study user purchase patterns.
+
+#
+
+<img align="left" width="250" height="150" src="https://github.com/Shubham2376G/AI_Projects/blob/main/Images/tennis.jpg"> **[Tennis Analytics OpenCV](https://github.com/Shubham2376G/AI_Projects/tree/main/Tennis_analytics)**
+
+The objective of this project is to analyze the 3 million grocery orders from more than 200,000 Instacart users and predict which previously purchased item will be in user's next order. Customer segmentation and affinity analysis are also done to study user purchase patterns.
