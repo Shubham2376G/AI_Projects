@@ -14,7 +14,10 @@ Welcome to my portfolio! I'm Shubham Agarwal, an AI enthusiast driven by the pow
 
 <img align="left" width="250" height="150" src="https://github.com/Shubham2376G/AI_Projects/blob/main/Images/champion.jfif"> **[Data Science Championship 2024](https://github.com/Shubham2376G/AI_Projects/tree/d6bca8f0b1a0d927973d16e03ff824f81ff071ed/DataScienceChampionship2024)**
 
-In this project I have used survival analysis to study how the likelihood of the customer churn changes over time. I have also implementd a Random Forest model to predict the customer churn and deployed a model using flask webapp on Heroku.
+Develop a model to classify patent papers according to the European Patent Office (EPO) classification scheme
+● Preprocessed text using nltk (stop words removal, stemming, lemmatization) and vectorized using tfidfvectorizer
+● Used an ensemble method to merge weights of CNN and RNN models to achieve a higher accuracy of 58%
+● Ranked as top 10 finalist among more than 1000 competitors and presented the solution in front of jury
 
 #
 
