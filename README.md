@@ -12,14 +12,30 @@ Welcome to my portfolio! I'm Shubham Agarwal, an AI enthusiast driven by the pow
 
 ## Projects
 
-<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/telecom.jpg"> **[Customer Survival Analysis and Churn Prediction](https://github.com/archd3sai/Customer-Survival-Analysis-and-Churn-Prediction)**
+<img align="left" width="250" height="150" src="https://github.com/Shubham2376G/AI_Projects/blob/main/Images/champion.jfif"> **[Data Science Championship 2024](https://github.com/Shubham2376G/AI_Projects/tree/d6bca8f0b1a0d927973d16e03ff824f81ff071ed/DataScienceChampionship2024)**
 
-In this project I have used survival analysis to study how the likelihood of the customer churn changes over time. I have also implementd a Random Forest model to predict the customer churn and deployed a model using flask webapp on Heroku. [App](https://churn-prediction-app.herokuapp.com/)  
+Develop a model to classify patent papers according to the European Patent Office (EPO) classification: <br> - Preprocessed text using nltk (stop words removal, stemming, lemmatization) and vectorized using tfidfvectorizer<br>- Used ensemble method to merge weights of CNN and RNN model to achieve higher accuracy of 58%<br> - Ranked as top 10 finalist among more than 1000 competitors and presented the solution in front of jury
 
 #
 
-<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/instacart.jpeg"> **[Instacart Market Basket Analysis](https://github.com/archd3sai/Instacart-Market-Basket-Analysis)**
+<img align="left" width="250" height="150" src="https://github.com/Shubham2376G/AI_Projects/blob/main/Images/data_vizz.png"> **[Data Vizz 2 Contest 2024](https://github.com/Shubham2376G/AI_Projects/tree/main/Data_Vizz_2)**
 
 The objective of this project is to analyze the 3 million grocery orders from more than 200,000 Instacart users and predict which previously purchased item will be in user's next order. Customer segmentation and affinity analysis are also done to study user purchase patterns.
 
 #
+
+<img align="left" width="250" height="150" src="https://github.com/Shubham2376G/AI_Projects/blob/main/Images/amex-card1708.jpg"> **[AMEX Contest](https://github.com/Shubham2376G/AI_Projects/tree/main/AMEX_Contest_2024)**
+
+The objective of this project is to analyze the 3 million grocery orders from more than 200,000 Instacart users and predict which previously purchased item will be in user's next order. Customer segmentation and affinity analysis are also done to study user purchase patterns.
+
+#
+
+<img align="left" width="250" height="150" src="https://github.com/Shubham2376G/AI_Projects/blob/main/Images/falcon.jfif"> **[Falcon Rocket Landing Prediction](https://github.com/Shubham2376G/AI_Projects/tree/main/IBM_Project_FalconX_Land_Prediction)**
+
+The objective of this project is to analyze the 3 million grocery orders from more than 200,000 Instacart users and predict which previously purchased item will be in user's next order. Customer segmentation and affinity analysis are also done to study user purchase patterns.
+
+#
+
+<img align="left" width="250" height="150" src="https://github.com/Shubham2376G/AI_Projects/blob/main/Images/tennis.jpg"> **[Tennis Analytics OpenCV](https://github.com/Shubham2376G/AI_Projects/tree/main/Tennis_analytics)**
+
+The objective of this project is to analyze the 3 million grocery orders from more than 200,000 Instacart users and predict which previously purchased item will be in user's next order. Customer segmentation and affinity analysis are also done to study user purchase patterns.
