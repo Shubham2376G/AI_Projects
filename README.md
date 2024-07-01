@@ -32,7 +32,7 @@ Using the given cricket analytics data, created new features using bowlers and b
 
 <img align="left" width="250" height="150" src="https://github.com/Shubham2376G/AI_Projects/blob/main/Images/llm_finetuning.png"> **[LLM Fine-Tuning](https://github.com/Shubham2376G/AI_Projects/tree/main/Tennis_Analysis_OpenCV)**
 
-Finetuned a pretrained huggingface model on SQUAD dataset
+Finetuned a pretrained huggingface model on SQUAD dataset. Large language models (LLMs) are powerhouses of general language knowledge, but fine-tuning allows them to excel at specific tasks. It's like taking a language whiz and giving them specialized training in a particular field.
 
 #
 
