@@ -20,52 +20,54 @@ Develop a model to classify patent papers according to the European Patent Offic
 
 <img align="left" width="250" height="150" src="https://github.com/Shubham2376G/AI_Projects/blob/main/Images/data_vizz.png"> **[Data Vizz 2 Contest 2024](https://github.com/Shubham2376G/AI_Projects/tree/main/Data_Vizz_2)**
 
-The objective of this project is to analyze the 3 million grocery orders from more than 200,000 Instacart users and predict which previously purchased item will be in user's next order. Customer segmentation and affinity analysis are also done to study user purchase patterns.
+Analysed the World restaurant dataset, different type of cuisines, popularity of cuisines in differnt states, etc and made interactive dashboard using tableau. dashboard can be filter according to country , cuisense rating and many more
 
 #
 
 <img align="left" width="250" height="150" src="https://github.com/Shubham2376G/AI_Projects/blob/main/Images/amex-card1708.jpg"> **[AMEX Contest](https://github.com/Shubham2376G/AI_Projects/tree/main/AMEX_Contest_2024)**
 
-The objective of this project is to analyze the 3 million grocery orders from more than 200,000 Instacart users and predict which previously purchased item will be in user's next order. Customer segmentation and affinity analysis are also done to study user purchase patterns.
+Using the given cricket analytics data, created new features using bowlers and baters dataset such as average wickets in last 10 games etc. used a stacked ensemble to join xgboost, lightboost and catboost. tuned the hyperparameters using optium
 
 #
 
 <img align="left" width="250" height="150" src="https://github.com/Shubham2376G/AI_Projects/blob/main/Images/llm_finetuning.png"> **[LLM Fine-Tuning](https://github.com/Shubham2376G/AI_Projects/tree/main/Tennis_Analysis_OpenCV)**
 
-The objective of this project is to analyze the 3 million grocery orders from more than 200,000 Instacart users and predict which previously purchased item will be in user's next order. Customer segmentation and affinity analysis are also done to study user purchase patterns.
+Finetuned a pretrained huggingface model on SQUAD dataset
 
 #
 
 <img align="left" width="250" height="150" src="https://github.com/Shubham2376G/AI_Projects/blob/main/Images/falcon.jfif"> **[Falcon Rocket Landing Prediction](https://github.com/Shubham2376G/AI_Projects/tree/main/IBM_Project_FalconX_Land_Prediction)**
 
-The objective of this project is to analyze the 3 million grocery orders from more than 200,000 Instacart users and predict which previously purchased item will be in user's next order. Customer segmentation and affinity analysis are also done to study user purchase patterns.
+Prepared the dataset using RESTFUL api and other sources such as wikipedia and extracted data using beatifulsoup library. used various visualisation tools to understand data such as folium , seaborn heatmaps and created a simple regression model
 
 #
 
 <img align="left" width="250" height="150" src="https://github.com/Shubham2376G/AI_Projects/blob/main/Images/tennis.jpg"> **[Tennis Analytics OpenCV](https://github.com/Shubham2376G/AI_Projects/tree/main/Tennis_Analysis_OpenCV)**
 
-The objective of this project is to analyze the 3 million grocery orders from more than 200,000 Instacart users and predict which previously purchased item will be in user's next order. Customer segmentation and affinity analysis are also done to study user purchase patterns.
+Analyze Ball and Player Motion with the help of Image Processing techniques for Sports Performance Insights
+● Developed a ball tracking algorithm using OpenCV to monitor ball trajectory based on color, circularity, and area properties and detected speed, net clearance, bounce point, and racket hitting point of ball with an accuracy of 80%
+● Employed frame differentiation and background segmentation techniques to track players during rallies and analyzed their motion patterns to gain player’s gameplay insights
 
 #
 
 <img align="left" width="250" height="150" src="https://github.com/Shubham2376G/AI_Projects/blob/main/Images/sentiment.jpg"> **[Sentiment Analysis](https://github.com/Shubham2376G/AI_Projects/tree/main/Tennis_Analysis_OpenCV)**
 
-The objective of this project is to analyze the 3 million grocery orders from more than 200,000 Instacart users and predict which previously purchased item will be in user's next order. Customer segmentation and affinity analysis are also done to study user purchase patterns.
+I built a system that could automatically categorize written opinions as positive, negative, or neutral. It's like having a machine read through reviews, social media posts, or even news articles and tell you if the overall sentiment is good, bad, or somewhere in between.
 
 #
 
 <img align="left" width="250" height="150" src="https://github.com/Shubham2376G/AI_Projects/blob/main/Images/spam.jpg"> **[Email Spam Detection](https://github.com/Shubham2376G/AI_Projects/tree/main/Tennis_Analysis_OpenCV)**
 
-The objective of this project is to analyze the 3 million grocery orders from more than 200,000 Instacart users and predict which previously purchased item will be in user's next order. Customer segmentation and affinity analysis are also done to study user purchase patterns.
+Analyzed data to identify spam patterns (sender info, word choice, urgency).Extracted key features like suspicious words and unusual formatting.Trained a machine learning model (e.g., Naive Bayes) to classify emails and evaluated and refined to ensure accurate spam detection.
 
 #
 
 <img align="left" width="250" height="150" src="https://github.com/Shubham2376G/AI_Projects/blob/main/Images/langchain.png"> **[Question Answering Langchain (RAG) ](https://github.com/Shubham2376G/AI_Projects/tree/main/Tennis_Analysis_OpenCV)**
 
-The objective of this project is to analyze the 3 million grocery orders from more than 200,000 Instacart users and predict which previously purchased item will be in user's next order. Customer segmentation and affinity analysis are also done to study user purchase patterns.
+Build and Deploy a LLM Question-Answering Model on PDFs, Word or CSV using Langchains (RAG) and Huggingface Model (LaMini-T5-738M model). Built a document retrieval system leveraging sentence transformers (all-MiniLM-l6) to convert documents into vector embeddings and Facebook's FAISS vector store for efficient vector similarity search then Deployed a user-friendly interface using Streamlit to enable local execution of the question-answering model
 
 #
 
 <img align="left" width="250" height="150" src="https://github.com/Shubham2376G/AI_Projects/blob/main/Images/summarizer.jfif"> **[Document Summarizer](https://github.com/Shubham2376G/AI_Projects/tree/main/Tennis_Analysis_OpenCV)**
 
-The objective of this project is to analyze the 3 million grocery orders from more than 200,000 Instacart users and predict which previously purchased item will be in user's next order. Customer segmentation and affinity analysis are also done to study user purchase patterns.
+Trained a model to analyze documents. By considering factors like word frequency and sentence location, the model identified the key information. This allowed me to generate summaries that effectively condense the original content, saving users valuable time and effort
