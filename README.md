@@ -36,6 +36,6 @@ The objective of this project is to analyze the 3 million grocery orders from mo
 
 #
 
-<img align="left" width="250" height="150" src="https://github.com/Shubham2376G/AI_Projects/blob/main/Images/tennis.jpg"> **[Tennis Analytics OpenCV](https://github.com/Shubham2376G/AI_Projects/tree/main/Tennis_analytics)**
+<img align="left" width="250" height="150" src="https://github.com/Shubham2376G/AI_Projects/blob/main/Images/tennis.jpg"> **[Tennis Analytics OpenCV](https://github.com/Shubham2376G/AI_Projects/tree/main/Tennis_Analysis_OpenCV)**
 
 The objective of this project is to analyze the 3 million grocery orders from more than 200,000 Instacart users and predict which previously purchased item will be in user's next order. Customer segmentation and affinity analysis are also done to study user purchase patterns.
