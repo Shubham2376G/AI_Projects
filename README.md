@@ -63,12 +63,12 @@ I built a system that could automatically categorize written opinions as positiv
 
 #
 
-<img align="left" width="250" height="150" src="https://github.com/Shubham2376G/AI_Projects/blob/main/Images/spam.jpg"> **[Email Spam Detection](https://github.com/Shubham2376G/AI_Projects/tree/main/Tennis_Analysis_OpenCV)**
+<img align="left" width="250" height="150" src="https://github.com/Shubham2376G/AI_Projects/blob/main/Images/spam.jpg"> **[Email Spam Detection](https://github.com/Shubham2376G/AI_Projects/tree/main/Spam_Detection)**
 
 Analyzed data to identify spam patterns (sender info, word choice, urgency).Extracted key features like suspicious words and unusual formatting.Trained a machine learning model (e.g., Naive Bayes) to classify emails and evaluated and refined to ensure accurate spam detection.
 
 #
 
-<img align="left" width="250" height="150" src="https://github.com/Shubham2376G/AI_Projects/blob/main/Images/summarizer.jfif"> **[Document Summarizer](https://github.com/Shubham2376G/AI_Projects/tree/main/Tennis_Analysis_OpenCV)**
+<img align="left" width="250" height="150" src="https://github.com/Shubham2376G/AI_Projects/blob/main/Images/summarizer.jfif"> **[Document Summarizer](https://github.com/Shubham2376G/AI_Projects/tree/main/Document_Summarizer)**
 
 Trained a model to analyze documents. By considering factors like word frequency and sentence location, the model identified the key information. This allowed me to generate summaries that effectively condense the original content, saving users valuable time and effort
