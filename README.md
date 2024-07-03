@@ -39,7 +39,7 @@ Finetuned a pretrained huggingface model on Airline Tweets dataset. Large langua
 
 <img align="left" width="250" height="150" src="https://github.com/Shubham2376G/AI_Projects/blob/main/Images/falcon.jfif"> **[Falcon Rocket Landing Prediction](https://github.com/Shubham2376G/AI_Projects/tree/main/IBM_Project_FalconX_Land_Prediction)**
 
-Prepared the dataset using RESTFUL api and other sources such as wikipedia and extracted data using beatifulsoup library. used various visualisation tools to understand data such as folium , seaborn heatmaps and created a simple regression model
+Prepared the dataset using RESTFUL api and other sources such as wikipedia and extracted data using beatifulsoup library. used various visualisation tools to understand data such as folium , seaborn heatmaps and created a SVM model for best accuracy of 88.8%
 
 #
 
@@ -51,7 +51,7 @@ Analyze Ball and Player Motion with the help of Image Processing techniques for 
 
 #
 
-<img align="left" width="250" height="150" src="https://github.com/Shubham2376G/AI_Projects/blob/main/Images/sentiment.jpg"> **[Sentiment Analysis](https://github.com/Shubham2376G/AI_Projects/tree/main/Tennis_Analysis_OpenCV)**
+<img align="left" width="250" height="150" src="https://github.com/Shubham2376G/AI_Projects/blob/main/Images/sentiment.jpg"> **[Sentiment Analysis](https://github.com/Shubham2376G/AI_Projects/tree/main/Sentiment_analysis)**
 
 I built a system that could automatically categorize written opinions as positive, negative, or neutral. It's like having a machine read through reviews, social media posts, or even news articles and tell you if the overall sentiment is good, bad, or somewhere in between.
 
