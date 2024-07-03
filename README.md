@@ -14,6 +14,7 @@ Welcome to my portfolio! I'm Shubham Agarwal, an AI enthusiast driven by the pow
 
 <img align="left" width="250" height="150" src="https://github.com/Shubham2376G/AI_Projects/blob/main/Images/champion.jfif"> **[Data Science Championship 2024](https://github.com/Shubham2376G/AI_Projects/tree/d6bca8f0b1a0d927973d16e03ff824f81ff071ed/DataScienceChampionship2024)**
 
+
 Develop a model to classify patent papers according to the European Patent Office (EPO) classification: <br> - Preprocessed text using nltk (stop words removal, stemming, lemmatization) and vectorized using tfidfvectorizer<br>- Used ensemble method to merge weights of CNN and RNN model to achieve higher accuracy of 58%<br> - Ranked as top 10 finalist among more than 1000 competitors and presented the solution in front of jury
 
 #
@@ -30,7 +31,7 @@ Using the given cricket analytics data, created new features using bowlers and b
 
 #
 
-<img align="left" width="250" height="150" src="https://github.com/Shubham2376G/AI_Projects/blob/main/Images/llm_finetuning.png"> **[LLM Fine-Tuning](https://github.com/Shubham2376G/AI_Projects/tree/main/Tennis_Analysis_OpenCV)**
+<img align="left" width="250" height="150" src="https://github.com/Shubham2376G/AI_Projects/blob/main/Images/llm_finetuning.png"> **[LLM Fine-Tuning](https://github.com/Shubham2376G/AI_Projects/tree/main/LLM_FineTuning)**
 
 Finetuned a pretrained huggingface model on SQUAD dataset. Large language models (LLMs) are powerhouses of general language knowledge, but fine-tuning allows them to excel at specific tasks. It's like taking a language whiz and giving them specialized training in a particular field.
 
