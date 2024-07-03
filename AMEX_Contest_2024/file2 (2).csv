@@ -1,0 +1,11 @@
+feat_id,feat_name,model_feat_imp_train,feat_rank_train,feat_description
+1,team_count_2wickets_last15,9.564815852920564,1, ratio of 2 wickets taken by players of a team
+2,team_count_sub20eco_last15,7.285157092105424,2, ratio of under 20 economy
+3,team_count_50runs_last15,7.1561901540529265,3,Ratio of number of 50s by players in team1 to number of 50s by players in team2 in last 15 games
+4,team_winp_last5,5.444130782900632,4,Ratio of team1's win % to team2's win % in last 5 games
+5,ground_avg_runs_last15,4.593843106555523,5,average runs scored in the ground in last 15 games
+6,team_winp_ground,4.561563403321599,6, team win percentage in the ground
+7,team_win_amount,4.33217885539301,7, team win amount
+8,team1only_avg_runs_last15,2.811677384572142,8,team1's avg inning runs in last 15 games
+9,toss_decision_01,1.923376786808932,9,"Toss decision - categorical - 1 if winner bats, 0 otherwise"
+10,team1_winp_team2_last15,1.6267700951702346,10,Team1's win percentage against Team2 in last 15 games

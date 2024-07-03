@@ -1,0 +1,11 @@
+feat_id,feat_name,model_feat_imp_train,feat_rank_train,feat_description
+1,team_count_50runs_last15,16.655471750659206,1,Ratio of number of 50s by players in team1 to number of 50s by players in team2 in last 15 games
+2,team_count_2wickets_last15,11.256952691762715,2,
+3,team_count_sub20eco_last15,9.967545561535404,3,
+4,team_winp_ground,2.672718434105463,4,
+5,ground_avg_runs_last15,2.0195217485224783,5,average runs scored in the ground in last 15 games
+6,toss_winner_01,2.005106556123789,6,"Toss winner to numerical - 1 if team2 wins, else 0"
+7,toss_decision_01,1.6253019903645876,7,"Toss decision - categorical - 1 if winner bats, 0 otherwise"
+8,team_winp_last5,1.4624441089872058,8,Ratio of team1's win % to team2's win % in last 5 games
+9,team_win_amount,1.1905294004776161,9,
+10,team1only_avg_runs_last15,1.1393186508025976,10,team1's avg inning runs in last 15 games
