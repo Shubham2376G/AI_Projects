@@ -12,9 +12,21 @@ Welcome to my portfolio! I'm Shubham Agarwal, an AI enthusiast driven by the pow
 
 ## Projects
 
-<img align="left" width="250" height="150" src="https://github.com/Shubham2376G/AI_Projects/blob/main/Images/langchain.png"> **[Question Answering Langchain (RAG) ](https://github.com/Shubham2376G/AI_Projects/tree/main/QA_RAG)**
+<img align="left" width="250" height="150" src="https://github.com/Shubham2376G/AI_Projects/blob/main/Images/autogen.jpg"> **[AI Agents Healthcare ](https://github.com/Shubham2376G/AI_Projects/tree/main/AI_Agents)**
 
-Build and Deploy a LLM Question-Answering Model on PDFs, Word or CSV using Langchains (RAG) and Huggingface Model (LaMini-T5-738M model). Built a document retrieval system leveraging sentence transformers (all-MiniLM-l6) to convert documents into vector embeddings and Facebook's FAISS vector store for efficient vector similarity search then Deployed a user-friendly interface using Streamlit to enable local execution of the question-answering model
+Developed and deployed a group of AI agents, including a "fitness agent" and a "nutritionist," designed to help users achieve their fitness and diet goals. Users can interact with these agents to receive personalized guidance on workouts and nutrition plans tailored to their individual needs.
+
+#
+
+<img align="left" width="250" height="150" src="https://github.com/Shubham2376G/AI_Projects/blob/main/Images/autogen.jpg"> **[AI Agents Healthcare ](https://github.com/Shubham2376G/AI_Projects/tree/main/AI_Agents)**
+
+Developed and deployed a group of AI agents, including a "fitness agent" and a "nutritionist," designed to help users achieve their fitness and diet goals. Users can interact with these agents to receive personalized guidance on workouts and nutrition plans tailored to their individual needs.
+
+#
+<img align="left" width="250" height="150" src="https://github.com/Shubham2376G/AI_Projects/blob/main/Images/qwen2.png"> **[FineTuning of QWEN2-VL ](https://github.com/Shubham2376G/AI_Projects/tree/main/Qwen2vl_finetuning)**
+
+
+I fine-tuned the Qwen-2 VL model with a focus on improving its ability to detect and extract precise quantity measurements, such as weight, volume, and height, from product images. To achieve this, I utilized LlamaFactory along with the LoRA (Low-Rank Adaptation) technique, which allowed for efficient and targeted training without the need to modify the entire model
 
 #
 
