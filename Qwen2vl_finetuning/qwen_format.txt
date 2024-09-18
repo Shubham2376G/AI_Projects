@@ -1,0 +1,67 @@
+import csv
+import json
+import os
+import requests
+
+# Function to download image from URL and save it to a folder
+def download_image(image_url, save_folder):
+    # Extract image filename from URL
+    image_filename = os.path.basename(image_url)
+    image_path = os.path.join(save_folder, image_filename)
+    
+    # Download and save the image
+    try:
+        response = requests.get(image_url, stream=True)
+        if response.status_code == 200:
+            with open(image_path, 'wb') as out_file:
+                out_file.write(response.content)
+            return image_filename
+        else:
+            print(f"Failed to download image: {image_url}")
+            return None
+    except Exception as e:
+        print(f"Error downloading image {image_url}: {e}")
+        return None
+
+# Function to convert CSV to Qwen2-VL JSON format
+def convert_csv_to_qwen2vl(csv_file, output_json, image_folder):
+    qwen_data = []
+    
+    # Create the folder for saving images if it doesn't exist
+    if not os.path.exists(image_folder):
+        os.makedirs(image_folder)
+    
+    # Open and read the CSV file
+    with open(csv_file, newline='', encoding='utf-8') as csvfile:
+        reader = csv.DictReader(csvfile)
+        
+        # Iterate over each row in the CSV
+        for row in reader:
+            image_filename = download_image(row["image_link"], image_folder)
+            if image_filename:
+                entry = {
+                    "id": row["group_id"],
+                    "image": f"Amazon_images/{image_filename}",
+                    "conversations": [
+                        {
+                            "from": "human",
+                            "value": f"<image>\n Find the{row['entity_name']} of the item shown in the image, provide the value along with the units of measurement"
+                        },
+                        {
+                            "from": "gpt",
+                            "value": row["entity_value"]
+                        }
+                    ]
+                }
+                qwen_data.append(entry)
+    
+    # Write to output JSON file
+    with open(output_json, 'w', encoding='utf-8') as jsonfile:
+        json.dump(qwen_data, jsonfile, indent=4)
+
+# Parameters
+csv_file = "/content/amazon_train - Copy.csv"  # Path to your CSV file
+output_json = "qwen2vl_format.json"  # Output JSON file
+image_folder = "downloaded_images"  # Folder to store downloaded images
+
+convert_csv_to_qwen2vl(csv_file, output_json, image_folder)
