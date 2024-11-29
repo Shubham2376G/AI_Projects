@@ -12,6 +12,15 @@ Welcome to my portfolio! I'm Shubham Agarwal, an AI enthusiast driven by the pow
 
 ## Projects
 
+<img align="left" width="250" height="150" src="https://github.com/Shubham2376G/AI_Projects/blob/main/Images/seed.jpg"> **[AI Diagnosis Prediction ](https://github.com/Shubham2376G/AI_Projects/tree/main/AI_Medical_Diagnosis_App)**
+
+Integrated Multi-Model System: Combines specialized agents for X-rays, blood tests, and symptoms to deliver accurate diagnostics.
+Structured Output: Generates a clear and actionable medical PDF report for healthcare providers.
+Secure Data Processing: Uses encryption and excludes sensitive patient information to ensure privacy.
+Scalable Design: Modular framework supports adding new diagnostic features and capabilities.
+
+#
+
 <img align="left" width="250" height="150" src="https://github.com/Shubham2376G/AI_Projects/blob/main/Images/autogen.jpg"> **[AI Agents Healthcare ](https://github.com/Shubham2376G/AI_Projects/tree/main/AI_Agents)**
 
 Developed and deployed a group of AI agents, including a "fitness agent" and a "nutritionist," designed to help users achieve their fitness and diet goals. Users can interact with these agents to receive personalized guidance on workouts and nutrition plans tailored to their individual needs.
