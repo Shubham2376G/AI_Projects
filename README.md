@@ -14,10 +14,10 @@ Welcome to my portfolio! I'm Shubham Agarwal, an AI enthusiast driven by the pow
 
 <img align="left" width="250" height="150" src="https://github.com/Shubham2376G/AI_Projects/blob/main/Images/seed.jpg"> **[AI Diagnosis Prediction ](https://github.com/Shubham2376G/AI_Projects/tree/main/AI_Medical_Diagnosis_App)**
 
-Integrated Multi-Model System: Combines specialized agents for X-rays, blood tests, and symptoms to deliver accurate diagnostics.
-Structured Output: Generates a clear and actionable medical PDF report for healthcare providers.
-Secure Data Processing: Uses encryption and excludes sensitive patient information to ensure privacy.
-Scalable Design: Modular framework supports adding new diagnostic features and capabilities.
+-Integrated Multi-Model System: Combines specialized agents for X-rays, blood tests, and symptoms to deliver accurate diagnostics.<br>
+-Structured Output: Generates a clear and actionable medical PDF report for healthcare providers.<br>
+-Secure Data Processing: Uses encryption and excludes sensitive patient information to ensure privacy.<br>
+-Scalable Design: Modular framework supports adding new diagnostic features and capabilities.
 
 #
 
