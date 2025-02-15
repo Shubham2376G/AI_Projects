@@ -28,7 +28,14 @@ Developed and deployed a group of AI agents, including a "fitness agent" and a "
 
 #
 
-<img align="left" width="250" height="150" src="https://github.com/Shubham2376G/AI_Projects/blob/main/Images/qwen2.png"> **[FineTuning of QWEN2-VL ](https://github.com/Shubham2376G/AI_Projects/tree/main/Qwen2vl_finetuning)**
+<img align="left" width="250" height="150" src="https://github.com/Shubham2376G/AI_Projects/blob/main/Images/FAQ.png"> **[FAQ Generator](https://github.com/Shubham2376G/AI_Projects/tree/main/FAQ_finetuned_gpt2)**
+
+
+This project focuses on building an agentic workflow for automatically generating FAQ sections for websites, complete with relevant hyperlinks. The workflow utilizes natural language processing (NLP) to analyze website content, extract key topics, and generate concise, well-structured FAQ entries
+
+#
+
+<img align="left" width="250" height="150" src="https://github.com/Shubham2376G/AI_Projects/blob/main/Images/qwen2.png"> **[FineTuning of QWEN2-VL ](https://github.com/Shubham2376G/AI_Projects/tree/main/LLM_Cookbook/Qwen2vl_finetuning)**
 
 
 I fine-tuned the Qwen-2 VL model with a focus on improving its ability to detect and extract precise quantity measurements, such as weight, volume, and height, from product images. To achieve this, I utilized LlamaFactory along with the LoRA (Low-Rank Adaptation) technique, which allowed for efficient and targeted training without the need to modify the entire model
@@ -54,7 +61,7 @@ Using the given cricket analytics data, created new features using bowlers and b
 
 #
 
-<img align="left" width="250" height="150" src="https://github.com/Shubham2376G/AI_Projects/blob/main/Images/llm_finetuning.png"> **[LLM Fine-Tuning](https://github.com/Shubham2376G/AI_Projects/tree/main/LLM_FineTuning)**
+<img align="left" width="250" height="150" src="https://github.com/Shubham2376G/AI_Projects/blob/main/Images/llm_finetuning.png"> **[LLM Fine-Tuning](https://github.com/Shubham2376G/AI_Projects/tree/main/LLM_Cookbook/LLM_FineTuning)**
 
 Finetuned a pretrained huggingface model on Airline Tweets dataset. Large language models (LLMs) are powerhouses of general language knowledge, but fine-tuning allows them to excel at specific tasks. It's like taking a language whiz and giving them specialized training in a particular field.
 
@@ -74,18 +81,18 @@ Analyze Ball and Player Motion with the help of Image Processing techniques for 
 
 #
 
-<img align="left" width="250" height="150" src="https://github.com/Shubham2376G/AI_Projects/blob/main/Images/sentiment.jpg"> **[Sentiment Analysis](https://github.com/Shubham2376G/AI_Projects/tree/main/Sentiment_analysis)**
+<img align="left" width="250" height="150" src="https://github.com/Shubham2376G/AI_Projects/blob/main/Images/sentiment.jpg"> **[Sentiment Analysis](https://github.com/Shubham2376G/AI_Projects/tree/main/LLM_Cookbook/Sentiment_analysis)**
 
 I built a system that could automatically categorize written opinions as positive, negative, or neutral. It's like having a machine read through reviews, social media posts, or even news articles and tell you if the overall sentiment is good, bad, or somewhere in between.
 
 #
 
-<img align="left" width="250" height="150" src="https://github.com/Shubham2376G/AI_Projects/blob/main/Images/spam.jpg"> **[Email Spam Detection](https://github.com/Shubham2376G/AI_Projects/tree/main/Spam_Detection)**
+<img align="left" width="250" height="150" src="https://github.com/Shubham2376G/AI_Projects/blob/main/Images/spam.jpg"> **[Email Spam Detection](https://github.com/Shubham2376G/AI_Projects/tree/main/LLM_Cookbook/Spam_Detection)**
 
 Analyzed data to identify spam patterns (sender info, word choice, urgency).Extracted key features like suspicious words and unusual formatting.Trained a machine learning model (e.g., Naive Bayes) to classify emails and evaluated and refined to ensure accurate spam detection.
 
 #
 
-<img align="left" width="250" height="150" src="https://github.com/Shubham2376G/AI_Projects/blob/main/Images/summarizer.jfif"> **[Document Summarizer](https://github.com/Shubham2376G/AI_Projects/tree/main/Document_Summarizer)**
+<img align="left" width="250" height="150" src="https://github.com/Shubham2376G/AI_Projects/blob/main/Images/summarizer.jfif"> **[Document Summarizer](https://github.com/Shubham2376G/AI_Projects/tree/main/LLM_Cookbook/Document_Summarizer)**
 
 Trained a model to analyze documents. By considering factors like word frequency and sentence location, the model identified the key information. This allowed me to generate summaries that effectively condense the original content, saving users valuable time and effort
