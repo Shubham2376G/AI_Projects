@@ -35,6 +35,13 @@ This project focuses on building an agentic workflow for automatically generatin
 
 #
 
+<img align="left" width="250" height="150" src="https://github.com/Shubham2376G/AI_Projects/blob/main/Images/RL.jpg"> **[Reinforcement Learning](https://github.com/Shubham2376G/AI_Projects/tree/main/Reinforcement_Learning)**
+
+
+Conducted a workshop focused on Reinforcement Learning (RL), diving deep into the fundamentals and practical applications.  A core part of the session covered Q-learning, providing attendees with a solid understanding of this essential algorithm along with some advanced topics like OPRO (Off-Policy Return Optimization) and GRPO (Gradient-based Return Policy Optimization)
+
+#
+
 <img align="left" width="250" height="150" src="https://github.com/Shubham2376G/AI_Projects/blob/main/Images/qwen2.png"> **[FineTuning of QWEN2-VL ](https://github.com/Shubham2376G/AI_Projects/tree/main/LLM_Cookbook/Qwen2vl_finetuning)**
 
 
