@@ -2,7 +2,7 @@
 Welcome to my portfolio! I'm Shubham Agarwal, an AI enthusiast driven by the power of Large Language Models (LLMs) and Deep Learning (DL) to generate impactful solutions. This space showcases my explorations in the realm of AI, I have done for academic, self-learning and hobby purposes. This portfolio also contains my Achievements, skills, and certificates. It is updated on the regular basis.
 
 - **Resume**: [Resume_AI](https://github.com/Shubham2376G/AI_Projects/tree/main/Resume)
-- **Email**: [me21b192@smail.iitm.ac.in](me21b192@smail.iitm.ac.in)
+- **Email**: [shubham_agg@alumni.iitm.ac.in](shubham_agg@alumni.iitm.ac.in)
 - **LinkedIn**: [linkedin.com/in/shubham-aggarwal/](https://linkedin.com/in/shubham-aggarwal-a63b40276/)
 
 ## Certificates
