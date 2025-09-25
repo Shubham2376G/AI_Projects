@@ -1,5 +1,11 @@
-# AI Portfolio - Shubham Aggarwal
-Welcome to my portfolio! I'm Shubham Agarwal, an AI enthusiast driven by the power of Large Language Models (LLMs) and Deep Learning (DL) to generate impactful solutions. This space showcases my explorations in the realm of AI, I have done for academic, self-learning and hobby purposes. This portfolio also contains my Achievements, skills, and certificates. It is updated on the regular basis.
+# Hi, I’m Shubham Agarwal 👋
+
+AI enthusiast exploring **Large Language Models (LLMs)** and **Deep Learning (DL)**.
+
+This repository contains my **micro AI projects** created for **learning, academic purposes, and experimentation**. Larger projects have **dedicated repositories**.
+
+💡 Explore my **achievements, skills, and certifications**—updated regularly to reflect my AI journey.
+
 
 - **Resume**: [Resume_AI](https://github.com/Shubham2376G/AI_Projects/tree/main/Resume)
 - **Email**: [shubham_agg@alumni.iitm.ac.in](shubham_agg@alumni.iitm.ac.in)
