@@ -5,7 +5,8 @@ AI enthusiast exploring **Large Language Models (LLMs)** and **Deep Learning (DL
 This repository contains my **micro AI projects** created for **learning, academic purposes, and experimentation**. Larger projects have **dedicated repositories**.
 
 💡 Explore my **achievements, skills, and certifications**—updated regularly to reflect my AI journey.
-🌐 Check out all my projects on [GitHub](https://github.com/ShubhamG2376)
+
+🌐 Check out all my projects on [GitHub](https://github.com/Shubham2376G)
 
 
 - **Resume**: [Resume_AI](https://github.com/Shubham2376G/AI_Projects/tree/main/Resume)
