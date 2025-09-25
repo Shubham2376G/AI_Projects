@@ -1,4 +1,4 @@
-# Hi, I’m Shubham Agarwal 👋
+# Hi, I’m Shubham Aggarwal 👋
 
 AI enthusiast exploring **Large Language Models (LLMs)** and **Deep Learning (DL)**.
 
