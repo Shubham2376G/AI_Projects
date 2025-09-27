@@ -14,6 +14,7 @@ Welcome to my AI & Data Science project portfolio! I’m passionate about **cutt
 - **LinkedIn**: [linkedin.com/in/shubham-aggarwal](https://linkedin.com/in/shubham-aggarwal-a63b40276/)
 - **Email**: [shubham_agg@alumni.iitm.ac.in](mailto:shubham_agg@alumni.iitm.ac.in)
 - **Resume**: [Resume_AI](./utils/Resume)
+- **Certificates**: [Here](./utils/certificates)
 
 ---
 
