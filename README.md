@@ -262,5 +262,17 @@ Welcome to my AI & LLM project portfolio! I’m passionate about **cutting-edge 
 </tr>
 </table>
 
+## 📚 Research Engagement
+
+In addition to building projects, I actively study research papers to strengthen my theoretical foundation in AI.  
+Some of the key works I have carefully studied include: 
+
+- **Scaling & Efficiency** → Scaling Laws, Chinchilla, BitNet  
+- **Reasoning in LLMs** → Chain-of-Thought, Speculative Decoding  
+- **Model Compression & Distillation** → Knowledge Distillation, Quantization works  
+- **Cross-disciplinary Methods** → Betti Numbers and Topological Data Analysis  
+
+Reading research papers not only strengthens my theoretical foundation but also sparks **creative new ideas for projects and applications**.
+
 
 
