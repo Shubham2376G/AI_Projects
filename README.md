@@ -1,4 +1,4 @@
-# AI & Data Science Projects – Shubham Aggarwal 👋
+# AI & LLM Projects – Shubham Aggarwal 👋
 
 
 Welcome to my AI & Data Science project portfolio! I’m passionate about **cutting-edge machine learning research** and **real-world AI applications**. This repository showcases projects across **Large Language Models (LLMs)**, **data science competitions**, and **classic ML/NLP tasks**, highlighting the impact, tools, and methods behind each.  
