@@ -118,7 +118,7 @@ Welcome to my AI & Data Science project portfolio! I’m passionate about **cutt
   <h3><a href="https://github.com/Shubham2376G/AI_Projects/tree/main/DataScienceChampionship2024">Data Science Championship 2024</a></h3>
   <ul>
     <li>Developed a model to classify patent papers into EPO categories, including text preprocessing with <b>NLTK (stop words removal, stemming, lemmatization) and TF-IDF vectorization.</b>.</li>
-    <li>Achieved Used an <b>ensemble of CNN and RNN models</b> to improve accuracy to <b>68%</b>, ranked <b>Top 10</b> among 1000+ competitors, and presented the solution to a jury.</li>
+    <li>Used an <b>ensemble of CNN and RNN models</b> to improve accuracy to <b>68%</b>, ranked <b>Top 10</b> among 1000+ competitors, and presented the solution to a jury.</li>
     
   </ul>
 </td>
