@@ -35,36 +35,6 @@ Welcome to my AI & Data Science project portfolio! I’m passionate about **cutt
 <table>
 <tr>
 <td width="260">
-  <img src="https://github.com/Shubham2376G/AI_Projects/blob/main/utils/Images/bitnet.jpg" width="250" height="150">
-</td>
-<td>
-  <h3><a href="https://github.com/Shubham2376G/AI_Projects/tree/main/LLM_Cookbook/1_bit_LLM">1-bit LLM</a></h3>
-  <ul>
-    <li>Reimplemented <b>Microsoft’s 1-BitNet</b>, which leverages <b>1-bit quantization</b> for training large-scale LLMs, drastically reducing memory and communication cost.</li>
-    <li><b>Key Insight:</b> 1-bit quantization, combined with error compensation, enables near full-precision accuracy while significantly lowering training overhead.</li>
-  </ul>
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td width="260">
-  <img src="https://github.com/Shubham2376G/AI_Projects/blob/main/utils/Images/cot.png" width="250" height="150">
-</td>
-<td>
-  <h3><a href="https://github.com/Shubham2376G/AI_Projects/tree/main/LLM_Cookbook/CoT_Decoding">Chain-of-Thought (CoT) Decoding</a></h3>
-  <ul>
-    <li>Developed a <b>prompt-engineering framework</b> that guides LLMs through sequential reasoning steps.</li>
-    <li>Improves accuracy and explainability in reasoning tasks.</li>
-  </ul>
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td width="260">
   <img src="https://github.com/Shubham2376G/AI_Projects/blob/main/utils/Images/LLM_Distillation.jpg" width="250" height="150">
 </td>
 <td>
@@ -95,6 +65,36 @@ Welcome to my AI & Data Science project portfolio! I’m passionate about **cutt
 <table>
 <tr>
 <td width="260">
+  <img src="https://github.com/Shubham2376G/AI_Projects/blob/main/utils/Images/bitnet.jpg" width="250" height="150">
+</td>
+<td>
+  <h3><a href="https://github.com/Shubham2376G/AI_Projects/tree/main/LLM_Cookbook/1_bit_LLM">1-bit LLM</a></h3>
+  <ul>
+    <li>Reimplemented <b>Microsoft’s 1-BitNet</b>, which leverages <b>1-bit quantization</b> for training large-scale LLMs, drastically reducing memory and communication cost.</li>
+    <li><b>Key Insight:</b> 1-bit quantization, combined with error compensation, enables near full-precision accuracy while significantly lowering training overhead.</li>
+  </ul>
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="260">
+  <img src="https://github.com/Shubham2376G/AI_Projects/blob/main/utils/Images/cot.png" width="250" height="150">
+</td>
+<td>
+  <h3><a href="https://github.com/Shubham2376G/AI_Projects/tree/main/LLM_Cookbook/CoT_Decoding">Chain-of-Thought (CoT) Decoding</a></h3>
+  <ul>
+    <li>Developed a <b>prompt-engineering framework</b> that guides LLMs through sequential reasoning steps.</li>
+    <li>Improves accuracy and explainability in reasoning tasks.</li>
+  </ul>
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="260">
   <img src="https://github.com/Shubham2376G/AI_Projects/blob/main/utils/Images/qwen2.png" width="250" height="150">
 </td>
 <td>
@@ -117,8 +117,9 @@ Welcome to my AI & Data Science project portfolio! I’m passionate about **cutt
 <td>
   <h3><a href="https://github.com/Shubham2376G/AI_Projects/tree/main/DataScienceChampionship2024">Data Science Championship 2024</a></h3>
   <ul>
-    <li>Classified patents into <b>EPO categories</b> using a <b>CNN + RNN ensemble</b>.</li>
-    <li>Achieved <b>68% accuracy</b> and ranked <b>Top 10 among 1000+ competitors</b>.</li>
+    <li>Developed a model to classify patent papers into EPO categories, including text preprocessing with <b>NLTK (stop words removal, stemming, lemmatization) and TF-IDF vectorization.</b>.</li>
+    <li>Achieved Used an <b>ensemble of CNN and RNN models</b> to improve accuracy to <b>68%</b>, ranked <b>Top 10</b> among 1000+ competitors, and presented the solution to a jury.</li>
+    
   </ul>
 </td>
 </tr>
@@ -204,6 +205,21 @@ Welcome to my AI & Data Science project portfolio! I’m passionate about **cutt
 <table>
 <tr>
 <td width="260">
+  <img src="https://github.com/Shubham2376G/AI_Projects/blob/main/utils/Images/falcon.jfif" width="250" height="150">
+</td>
+<td>
+  <h3><a href="https://github.com/Shubham2376G/AI_Projects/tree/main/IBM_Project_FalconX_Land_Prediction">IBM FalconX Rocket Landing Prediction</a></h3>
+  <ul>
+    <li>Prepared the dataset by fetching data via <b>RESTful APIs</b> and scraping sources like Wikipedia using <b>BeautifulSoup</b>.</li>
+    <li>Explored and visualized data with <b>Folium and Seaborn heatmaps</b>, and trained an <b>SVM model</b> achieving <b>88.8% accuracy</b>.</li>
+  </ul>
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="260">
   <img src="https://github.com/Shubham2376G/AI_Projects/blob/main/utils/Images/sentiment.jpg" width="250" height="150">
 </td>
 <td>
@@ -229,18 +245,5 @@ Welcome to my AI & Data Science project portfolio! I’m passionate about **cutt
 </tr>
 </table>
 
-<table>
-<tr>
-<td width="260">
-  <img src="https://github.com/Shubham2376G/AI_Projects/blob/main/utils/Images/falcon.jfif" width="250" height="150">
-</td>
-<td>
-  <h3><a href="https://github.com/Shubham2376G/AI_Projects/tree/main/IBM_Project_FalconX_Land_Prediction">IBM FalconX Rocket Landing Prediction</a></h3>
-  <ul>
-    <li>Prepared the dataset by fetching data via <b>RESTful APIs</b> and scraping sources like Wikipedia using <b>BeautifulSoup</b>.</li>
-    <li>Explored and visualized data with <b>Folium and Seaborn heatmaps</b>, and trained an <b>SVM model</b> achieving <b>88.8% accuracy</b>.</li>
-  </ul>
-</td>
-</tr>
-</table>
+
 
