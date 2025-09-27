@@ -163,7 +163,7 @@ Welcome to my AI & Data Science project portfolio! I’m passionate about **cutt
   <img src="https://github.com/Shubham2376G/AI_Projects/blob/main/utils/Images/autogen.jpg" width="250" height="150">
 </td>
 <td>
-  <h3><a href="https://github.com/Shubham2376G/AI_Projects/tree/main/AI_Agents">AI Agents (Healthcare)</a></h3>
+  <h3><a href="https://github.com/Shubham2376G/AI_Projects/tree/main/Agentic_AI(Autogen)">AI Agents (Healthcare)</a></h3>
   <ul>
     <li>Created a <b>group chat system</b> using Microsoft AutoGen with specialized AI agents (Fitness & Nutritionist).</li>
     <li>Built agents to deliver <b>personalized workout and diet recommendations</b>, simulating an interactive health advisory team.</li>
