@@ -38,7 +38,7 @@ Welcome to my AI & Data Science project portfolio! I’m passionate about **cutt
   <img src="https://github.com/Shubham2376G/AI_Projects/blob/main/utils/Images/bitnet.jpg" width="250" height="150">
 </td>
 <td>
-  <h3><a href="https://github.com/Shubham2376G/AI_Projects/tree/main/LLM_Cookbook/1_bit">1-bit LLM</a></h3>
+  <h3><a href="https://github.com/Shubham2376G/AI_Projects/tree/main/LLM_Cookbook/1_bit_LLM">1-bit LLM</a></h3>
   <ul>
     <li>Reimplemented <b>Microsoft’s 1-BitNet</b>, which leverages <b>1-bit quantization</b> for training large-scale LLMs, drastically reducing memory and communication cost.</li>
     <li><b>Key Insight:</b> 1-bit quantization, combined with error compensation, enables near full-precision accuracy while significantly lowering training overhead.</li>
@@ -53,7 +53,7 @@ Welcome to my AI & Data Science project portfolio! I’m passionate about **cutt
   <img src="https://github.com/Shubham2376G/AI_Projects/blob/main/utils/Images/cot.png" width="250" height="150">
 </td>
 <td>
-  <h3><a href="https://github.com/Shubham2376G/AI_Projects/tree/main/LLM_Cookbook/Chain-of-Thought">Chain-of-Thought (CoT) Decoding</a></h3>
+  <h3><a href="https://github.com/Shubham2376G/AI_Projects/tree/main/LLM_Cookbook/CoT_Decoding">Chain-of-Thought (CoT) Decoding</a></h3>
   <ul>
     <li>Developed a <b>prompt-engineering framework</b> that guides LLMs through sequential reasoning steps.</li>
     <li>Improves accuracy and explainability in reasoning tasks.</li>
@@ -68,7 +68,7 @@ Welcome to my AI & Data Science project portfolio! I’m passionate about **cutt
   <img src="https://github.com/Shubham2376G/AI_Projects/blob/main/utils/Images/LLM_Distillation.jpg" width="250" height="150">
 </td>
 <td>
-  <h3><a href="https://github.com/Shubham2376G/AI_Projects/tree/main/LLM_Cookbook/knowledge_distilation">Knowledge Distillation</a></h3>
+  <h3><a href="https://github.com/Shubham2376G/AI_Projects/tree/main/LLM_Cookbook/Knowledge_distillation_classification">Knowledge Distillation</a></h3>
   <ul>
     <li>Implemented a <b>teacher–student learning pipeline</b> to compress large LLMs into smaller ones, reducing inference cost while retaining high performance.</li>
     <li><b>Key Insight:</b> A well-designed student model can achieve near-teacher accuracy with far fewer parameters, making deployment more efficient and fast.</li>
@@ -83,7 +83,7 @@ Welcome to my AI & Data Science project portfolio! I’m passionate about **cutt
   <img src="https://github.com/Shubham2376G/AI_Projects/blob/main/utils/Images/sd.jpg" width="250" height="150">
 </td>
 <td>
-  <h3><a href="https://github.com/Shubham2376G/AI_Projects/tree/main/LLM_Cookbook/speculative_decoding">Speculative Decoding</a></h3>
+  <h3><a href="https://github.com/Shubham2376G/AI_Projects/tree/main/LLM_Cookbook/speculative_decoding_reduce_latency">Speculative Decoding</a></h3>
   <ul>
     <li>Implemented speculative decoding to <b>accelerate LLM inference</b> by letting a smaller draft model propose multiple tokens, which are then selectively verified by a larger target model.</li>
     <li><b>Key Insight:</b> Parallelizing token generation using a lightweight draft model significantly speeds up decoding while maintaining the accuracy of the main model.</li>
