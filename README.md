@@ -101,7 +101,7 @@ Welcome to my AI & Data Science project portfolio! I’m passionate about **cutt
   <h3><a href="https://github.com/Shubham2376G/AI_Projects/tree/main/LLM_Cookbook/LangGraph">LangGraph Chatbot Learning</a></h3>
   <ul>
     <li>Created Python scripts to learn <b>LangGraph</b> and build a <b>local chatbot</b> with <b>structured memory and human-in-the-loop messaging</b>.</li>
-    <li>Implemented multiple components including <b>ReAct reasoning, parallelization, state management, message handling, and long-term memory</b> to understand LangGraph pipelines and workflows.</li>
+    <li>Implemented multiple components including <b>ReAct reasoning, parallelization, state management, and long-term memory</b> to understand LangGraph workflows.</li>
   </ul>
 </td>
 </tr>
