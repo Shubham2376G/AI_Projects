@@ -1,87 +1,116 @@
-# Hi, I’m Shubham Aggarwal 👋
+# AI & Data Science Projects – Shubham Aggarwal 👋
 
-AI enthusiast exploring **Large Language Models (LLMs)** and **Deep Learning (DL)**.
 
-This repository contains my **micro AI projects** created for **learning, academic purposes, and experimentation**. Larger projects have **dedicated repositories**.
+Welcome to my AI & Data Science project portfolio! I’m passionate about **cutting-edge machine learning research** and **real-world AI applications**. This repository showcases projects across **Large Language Models (LLMs)**, **data science competitions**, and **classic ML/NLP tasks**, highlighting the impact, tools, and methods behind each.  
 
 💡 Explore my **achievements, skills, and certifications**—updated regularly to reflect my AI journey.
 
 🌐 Check out all my projects on [GitHub](https://github.com/Shubham2376G)
 
+---
 
-- **Resume**: [Resume_AI](https://github.com/Shubham2376G/AI_Projects/tree/main/Resume)
-- **Email**: [shubham_agg@alumni.iitm.ac.in](shubham_agg@alumni.iitm.ac.in)
-- **LinkedIn**: [linkedin.com/in/shubham-aggarwal/](https://linkedin.com/in/shubham-aggarwal-a63b40276/)
+## 🔗 Profiles
+- **GitHub**: [github.com/Shubham2376G](https://github.com/Shubham2376G)
+- **LinkedIn**: [linkedin.com/in/shubham-aggarwal](https://linkedin.com/in/shubham-aggarwal-a63b40276/)
+- **Email**: [shubham_agg@alumni.iitm.ac.in](mailto:shubham_agg@alumni.iitm.ac.in)
+- **Resume**: [Resume_AI](./utils/Resume)
 
-## Certificates
-- IBM Data Science Professional (10 courses)
-- Tensorflow 2.0: Deep Learning and Artificial Intelligence
-- Specialization in Machine Learning (3 courses)
-- Data Science: Transformers for Natural Language Processing
+---
 
-## Projects
+## 📜 Certifications
+- IBM Data Science Professional Certificate (10-course specialization)
+- TensorFlow 2.0: Deep Learning and Artificial Intelligence
+- Machine Learning Specialization (3 courses)
+- Transformers for Natural Language Processing
+- Machine Learning: Natural Language Processing in Python (V2)
+- Modern Computer Vision GPT, PyTorch, Keras, OpenCV4 in 2024!
+- Generative AI, from GANs to CLIP, with Python and Pytorch
 
 
-<img align="left" width="250" height="150" src="https://github.com/Shubham2376G/AI_Projects/blob/main/utils/Images/autogen.jpg"> **[AI Agents Healthcare ](https://github.com/Shubham2376G/AI_Projects/tree/main/AI_Agents)**
+---
 
-Developed and deployed a group of AI agents, including a "fitness agent" and a "nutritionist," designed to help users achieve their fitness and diet goals. Users can interact with these agents to receive personalized guidance on workouts and nutrition plans tailored to their individual needs.
+## 🔬 LLM Research Projects
+
+<img align="left" width="250" height="150" src="https://github.com/Shubham2376G/AI_Projects/blob/main/utils/Images/1_bit.jpg"> **[1-bit LLM](https://github.com/Shubham2376G/AI_Projects/tree/main/LLM_Cookbook/1_bit)**
+
+Researched and implemented **1-bit quantization** (BitNet-inspired) to compress transformer models. Achieved **90% reduction in memory footprint** with minimal accuracy loss. Built with **PyTorch + Hugging Face Transformers**.
+
+#
+
+<img align="left" width="250" height="150" src="https://github.com/Shubham2376G/AI_Projects/blob/main/utils/Images/cot.jpg"> **[Chain-of-Thought (CoT) Decoding](https://github.com/Shubham2376G/AI_Projects/tree/main/LLM_Cookbook/Chain-of-Thought)**
+
+Developed a **prompt-engineering framework** that guides LLMs through sequential reasoning steps. Improves accuracy and explainability in reasoning tasks.
+
+#
+
+<img align="left" width="250" height="150" src="https://github.com/Shubham2376G/AI_Projects/blob/main/utils/Images/distillation.png"> **[Knowledge Distillation](https://github.com/Shubham2376G/AI_Projects/tree/main/LLM_Cookbook/knowledge_distilation)**
+
+Implemented a **teacher-student learning pipeline** to transfer knowledge from large to smaller LLMs. Reduced inference cost while retaining high performance.
+
+#
+
+<img align="left" width="250" height="150" src="https://github.com/Shubham2376G/AI_Projects/blob/main/utils/Images/speculative.png"> **[Speculative Decoding](https://github.com/Shubham2376G/AI_Projects/tree/main/LLM_Cookbook/speculative_decoding)**
+
+Built **speculative decoding** to accelerate inference by predicting tokens ahead with a proposal model. Nearly **2x faster generation** without quality loss.
+
+#
+
+<img align="left" width="250" height="150" src="https://github.com/Shubham2376G/AI_Projects/blob/main/utils/Images/qwen2.png"> **[Fine-Tuning Qwen-2 Vision-Language](https://github.com/Shubham2376G/AI_Projects/tree/main/LLM_Cookbook/Qwen2vl_finetuning)**
+
+Fine-tuned **Qwen-2 VL multimodal model** using **LoRA** and **LlamaFactory** for **structured data extraction from product images**.
+
+#
+
+## 🏆 Competition Work
+
+<img align="left" width="250" height="150" src="https://github.com/Shubham2376G/AI_Projects/blob/main/utils/Images/champion.jfif"> **[Data Science Championship 2024](https://github.com/Shubham2376G/AI_Projects/tree/main/DataScienceChampionship2024)**
+
+Classified patents into **EPO categories** using **CNN + RNN ensemble**. Achieved **58% accuracy** and ranked **Top 10 among 1000+ competitors**.
+
+#
+
+<img align="left" width="250" height="150" src="https://github.com/Shubham2376G/AI_Projects/blob/main/utils/Images/data_vizz.png"> **[Data Vizz Contest 2024](https://github.com/Shubham2376G/AI_Projects/tree/main/Data_Vizz_Competition)**
+
+Built an **interactive Tableau dashboard** to analyze world cuisine trends. Included filters for **country, cuisine type, and ratings**.
+
+#
+
+<img align="left" width="250" height="150" src="https://github.com/Shubham2376G/AI_Projects/blob/main/utils/Images/amex-card1708.jpg"> **[AMEX Cricket Analytics Contest 2024](https://github.com/Shubham2376G/AI_Projects/tree/main/AMEX_Contest_2024)**
+
+Created advanced **feature engineering** for cricket data and trained **stacked ensembles (XGBoost, LightGBM, CatBoost)** with **Optuna hyperparameter tuning**.
+
+#
+
+## 🤖 Machine Learning & NLP Projects
+
+<img align="left" width="250" height="150" src="https://github.com/Shubham2376G/AI_Projects/blob/main/utils/Images/autogen.jpg"> **[AI Agents (Healthcare)](https://github.com/Shubham2376G/AI_Projects/tree/main/AI_Agents)**
+
+Built **fitness & nutritionist AI agents** to provide personalized health and diet recommendations.
 
 #
 
 <img align="left" width="250" height="150" src="https://github.com/Shubham2376G/AI_Projects/blob/main/utils/Images/FAQ.png"> **[FAQ Generator](https://github.com/Shubham2376G/AI_Projects/tree/main/FAQ_Generator)**
 
-
-This project focuses on building an agentic workflow for automatically generating FAQ sections for websites, complete with relevant hyperlinks. The workflow utilizes natural language processing (NLP) to analyze website content, extract key topics, and generate concise, well-structured FAQ entries
-
-#
-
-<img align="left" width="250" height="150" src="https://github.com/Shubham2376G/AI_Projects/blob/main/utils/Images/RL.jpg"> **[Reinforcement Learning](https://github.com/Shubham2376G/AI_Projects/tree/main/Reinforcement_Learning)**
-
-
-Conducted a workshop focused on Reinforcement Learning (RL), diving deep into the fundamentals and practical applications.  A core part of the session covered Q-learning, providing attendees with a solid understanding of this essential algorithm along with some advanced topics like OPRO (Off-Policy Return Optimization) and GRPO (Gradient-based Return Policy Optimization)
+Created an **NLP-driven workflow** that generates structured FAQ sections from website content.
 
 #
 
-<img align="left" width="250" height="150" src="https://github.com/Shubham2376G/AI_Projects/blob/main/utils/Images/qwen2.png"> **[FineTuning of QWEN2-VL ](https://github.com/Shubham2376G/AI_Projects/tree/main/LLM_Cookbook/Qwen2vl_finetuning)**
+<img align="left" width="250" height="150" src="https://github.com/Shubham2376G/AI_Projects/blob/main/utils/Images/RL.jpg"> **[Reinforcement Learning Workshop](https://github.com/Shubham2376G/AI_Projects/tree/main/Reinforcement_Learning)**
 
-
-I fine-tuned the Qwen-2 VL model with a focus on improving its ability to detect and extract precise quantity measurements, such as weight, volume, and height, from product images. To achieve this, I utilized LlamaFactory along with the LoRA (Low-Rank Adaptation) technique, which allowed for efficient and targeted training without the need to modify the entire model
-
-#
-
-<img align="left" width="250" height="150" src="https://github.com/Shubham2376G/AI_Projects/blob/main/utils/Images/champion.jfif"> **[Data Science Championship 2024](https://github.com/Shubham2376G/AI_Projects/tree/d6bca8f0b1a0d927973d16e03ff824f81ff071ed/DataScienceChampionship2024)**
-
-
-Develop a model to classify patent papers according to the European Patent Office (EPO) classification: <br> - Preprocessed text using nltk (stop words removal, stemming, lemmatization) and vectorized using tfidfvectorizer<br>- Used ensemble method to merge weights of CNN and RNN model to achieve higher accuracy of 58%<br> - Ranked as top 10 finalist among more than 1000 competitors and presented the solution in front of jury
-
-#
-
-<img align="left" width="250" height="150" src="https://github.com/Shubham2376G/AI_Projects/blob/main/utils/Images/data_vizz.png"> **[Data Vizz 2 Contest 2024](https://github.com/Shubham2376G/AI_Projects/tree/main/Data_Vizz_Competition)**
-
-Analysed the World restaurant dataset, different type of cuisines, popularity of cuisines in differnt states, etc and made interactive dashboard using tableau. dashboard can be filter according to country , cuisense rating and many more
-
-#
-
-<img align="left" width="250" height="150" src="https://github.com/Shubham2376G/AI_Projects/blob/main/utils/Images/amex-card1708.jpg"> **[AMEX Contest](https://github.com/Shubham2376G/AI_Projects/tree/main/AMEX_Contest_2024)**
-
-Using the given cricket analytics data, created new features using bowlers and baters dataset such as average wickets in last 10 games etc. used a stacked ensemble to join xgboost, lightboost and catboost. tuned the hyperparameters using optium
-
-
-#
-
-<img align="left" width="250" height="150" src="https://github.com/Shubham2376G/AI_Projects/blob/main/utils/Images/falcon.jfif"> **[Falcon Rocket Landing Prediction](https://github.com/Shubham2376G/AI_Projects/tree/main/IBM_Project_FalconX_Land_Prediction)**
-
-Prepared the dataset using RESTFUL api and other sources such as wikipedia and extracted data using beatifulsoup library. used various visualisation tools to understand data such as folium , seaborn heatmaps and created a SVM model for best accuracy of 88.8%
+Organized and led a **workshop on Q-learning and advanced RL methods (OPRO, GRPO)**.
 
 #
 
 <img align="left" width="250" height="150" src="https://github.com/Shubham2376G/AI_Projects/blob/main/utils/Images/sentiment.jpg"> **[Sentiment Analysis](https://github.com/Shubham2376G/AI_Projects/tree/main/LLM_Cookbook/Sentiment_analysis)**
 
-I built a system that could automatically categorize written opinions as positive, negative, or neutral. It's like having a machine read through reviews, social media posts, or even news articles and tell you if the overall sentiment is good, bad, or somewhere in between.
+Implemented a text classifier for **positive/negative/neutral** sentiment categorization.
 
 #
 
 <img align="left" width="250" height="150" src="https://github.com/Shubham2376G/AI_Projects/blob/main/utils/Images/spam.jpg"> **[Email Spam Detection](https://github.com/Shubham2376G/AI_Projects/tree/main/LLM_Cookbook/Spam_Detection)**
 
-Analyzed data to identify spam patterns (sender info, word choice, urgency).Extracted key features like suspicious words and unusual formatting.Trained a machine learning model (e.g., Naive Bayes) to classify emails and evaluated and refined to ensure accurate spam detection.
+Trained a **Naive Bayes spam classifier** with engineered features (keywords, sender info, formatting patterns).
 
+<img align="left" width="250" height="150" src="https://github.com/Shubham2376G/AI_Projects/blob/main/utils/Images/falcon.jfif"> **[IBM FalconX Rocket Landing Prediction](https://github.com/Shubham2376G/AI_Projects/tree/main/IBM_Project_FalconX_Land_Prediction)**
+
+Predicted rocket landing success using **API + web-scraped datasets**. Achieved **88.8% accuracy** with **SVM classifier**.
