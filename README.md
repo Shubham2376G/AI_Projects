@@ -264,15 +264,22 @@ Welcome to my AI & LLM project portfolio! I’m passionate about **cutting-edge 
 
 ## 📚 Research Engagement
 
-In addition to building projects, I actively study research papers to strengthen my theoretical foundation in AI.  
-Some of the key works I have carefully studied include: 
+In addition to projects and competitions, I also contribute to research.  
+I maintain a **Preprints folder** containing my own works:  
+👉 [My Research Preprints](./Research_papers/preprints)  
 
-- **Scaling & Efficiency** → Scaling Laws, Chinchilla, BitNet  
-- **Reasoning in LLMs** → Chain-of-Thought, Speculative Decoding  
-- **Model Compression & Distillation** → Knowledge Distillation, Quantization works  
-- **Cross-disciplinary Methods** → Betti Numbers and Topological Data Analysis  
+These reflect my initial explorations into AI research directions and demonstrate my ability to translate ideas into written scholarly form.  
 
-Reading research papers not only strengthens my theoretical foundation but also sparks **creative new ideas for projects and applications**.
+Alongside this, I have studied and annotated **25+ research papers** to deepen my theoretical understanding of AI. These span:  
 
+- **Scaling & Efficiency** → Scaling Laws, Chinchilla, Broken Scaling Laws, BitNet, Test-Time-Training  
+- **Reasoning in LLMs** → Chain-of-Thought Prompting, CoT Decoding, Logic of Thought, Scheming LLMs  
+- **Model Compression & Optimization** → Knowledge Distillation, Batch Normalization, Differential Methods, Ramanujan’s Randomly Weighted Networks  
+- **Generative Models** → Diffusion vs. Autoregressive Models, Qwen3 Technical Report  
+- **Cross-disciplinary Methods** → Betti Numbers in Topology, AI for Data Analysis  
 
+A **dedicated folder with my notes and summaries** is available here:  
+👉 [Research Papers – Literature Notes](./Research_papers/literature)  
+
+Reading and annotating research papers not only strengthens my theoretical foundation but also sparks **creative new ideas for projects, experiments, and applications**.
 
